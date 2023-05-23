@@ -1,0 +1,4 @@
+// test of function operators
+call mult 2
+function mult 2
+return

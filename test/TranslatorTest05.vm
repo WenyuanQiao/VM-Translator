@@ -1,0 +1,4 @@
+//test of jump operator
+if-goto END
+goto END
+label END
